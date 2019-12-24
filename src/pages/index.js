@@ -7,7 +7,7 @@ import "./index.css"
 import PictureModule from "../components/PictureModule"
 import Nine from "../images/09.jpg"
 import Seven from "../images/07.jpg"
-import uk7 from "../images/uk7.jpg"
+import uk7 from "../images/unk7.jpg"
 
 import uk1 from "../images/unk1.jpg"
 import uk2 from "../images/unk2.jpg"
@@ -16,7 +16,7 @@ import uk4 from "../images/unk4.jpg"
 import uk5 from "../images/unk5.jpg"
 import uk6 from "../images/unk6.jpg"
 import uk8 from "../images/unk8.jpg"
-import uk9 from "../images/uk9.jpg"
+import uk9 from "../images/unk9.jpg"
 
 const IndexPage = () => (
   <Layout>
