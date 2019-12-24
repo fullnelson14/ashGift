@@ -5,7 +5,7 @@ const PictureModule = ({ imgSrc, text }) => {
   return (
     <div id="picture-container">
       <img src={imgSrc} alt="Family" id="gag-image" />
-      <p>{text}</p>
+      <p id="pic-text">{text}</p>
     </div>
   )
 }

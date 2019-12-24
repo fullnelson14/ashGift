@@ -13,3 +13,9 @@
 #gag-image {
   width: 100%;
 }
+
+#pic-text {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
