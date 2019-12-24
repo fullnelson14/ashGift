@@ -1,4 +1,11 @@
-main-text-box {
+#main-text-box {
   width: 100%;
-  background-color: aqua;
+}
+
+#picture-box {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #930101;
+  width: 100%;
+  justify-content: space-around;
 }

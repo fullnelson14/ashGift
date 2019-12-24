@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          <p>&copy; Boo Industries Ltd. 2019</p>
+          <p>&copy; BTB Industries Ltd. 1991 - 2019</p>
         </footer>
       </div>
     </>
