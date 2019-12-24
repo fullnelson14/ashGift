@@ -37,10 +37,10 @@ const IndexPage = () => (
       <p>Love you Ash. Gag Gift 2019</p>
     </div>
     <div id="form-container">
-      <form>
+      <form name="memoryList" netlify>
         <label>
           Date:
-          <input type="text" name="date" placeholder="Ash" />
+          <input type="text" name="date" placeholder="Every day of my life" />
         </label>
         <br />
         <label>
@@ -52,6 +52,7 @@ const IndexPage = () => (
             placeholder="One time, I tried to do a gingerbread house without boo...."
           ></textarea>
         </label>
+        <button type="submit">Send</button>
       </form>
     </div>
     <div id="picture-box">
